@@ -6,10 +6,11 @@ A collection of best Color Palettes for faster and easier design.
 
 * [Adobe Kuler](https://color.adobe.com/)
 * [Paletton](http://www.paletton.com)
-* [Color-Hex](www.color-hex.com)
+* [Color-Hex](https://www.color-hex.com)
 * [COLOURlovers](http://www.colourlovers.com/palettes)
 * [Coolors](https://coolors.co/)
 * [Colorpalettes](http://colorpalettes.net/)
+* [colourco](http://www.colourco.de/)
 * [Flatcolors Palettes](http://flatcolors.net/palettes.php)
 * [Colorify](http://colorify.co/exploreColorPalette#)
 * [Material Design Color Palette](https://material.io/guidelines/style/color.html)
