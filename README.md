@@ -6,6 +6,7 @@ A collection of best Color Palettes for faster and easier design.
 
 * [Adobe Kuler](https://color.adobe.com/)
 * [Paletton](http://www.paletton.com)
+* [colorsupplyyy](http://colorsupplyyy.com/app/)
 * [Color-Hex](http://www.color-hex.com)
 * [COLOURlovers](http://www.colourlovers.com/palettes)
 * [Coolors](https://coolors.co/)
